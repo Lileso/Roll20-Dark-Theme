@@ -8,7 +8,7 @@ This is a fork of RedReign's code so I can keep it updated as they haven't relea
 - Install the [Tampermonkey](https://tampermonkey.net/) extension on your browser.
 
   (Greasemonkey and other userscript extensions may work, but are not currently supported.)
-- [Download and open the userscript in your browser](https://openuserjs.org/install/RedReign/Roll20_Dark.user.js).
+- [Download and open the userscript in your browser](https://openuserjs.org/install/Lileso/Roll20_Dark.user.js).
 
 - Enjoy!
 
