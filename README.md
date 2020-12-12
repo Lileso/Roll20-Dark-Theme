@@ -2,6 +2,8 @@
 Dark theme for Roll20. Fully compatible with the base editor as well as the 5e Shaped and OGL sheets.
 Also compatible with the VTT Enhancement Suite (formerly Roll20 Enhancement Suite) extension!
 
+This is a fork of RedReign's code so I can keep it updated as they haven't released recently. 
+
 ## Installation:
 - Install the [Tampermonkey](https://tampermonkey.net/) extension on your browser.
 
@@ -11,7 +13,7 @@ Also compatible with the VTT Enhancement Suite (formerly Roll20 Enhancement Suit
 - Enjoy!
 
 
-If you are the generous type, I have set up a page to buy me a coffee [here](https://www.buymeacoffee.com/redreign).
+If you are the generous type, Go buy RedReign Coffee! [here](https://www.buymeacoffee.com/redreign).
 
 ## Gallery
 ![Tabletop](/media/stormy-fullscreen.png)
@@ -23,7 +25,7 @@ If you are the generous type, I have set up a page to buy me a coffee [here](htt
 
 ## Acknowledgements
 **Thanks to:**
-
+[RedReign](https://github.com/RedReign) for writing this!
 [SSStormy](https://github.com/SSStormy/) and [TheGiddyLimit](https://github.com/TheGiddyLimit/) for their encouragement, guidance, and endless wisdom.
 
 All the folks of the 5etools community and the VTTES community for their input and QA testing!
