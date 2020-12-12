@@ -24,7 +24,8 @@
 }
 
 body {
-    background:url(http://subtlepatterns.com/patterns/dark_leather.png)!important;
+    background:url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_leather.png)!important;
+    scrollbar-color: #757575 #131417 !important;
 }
 
 #floatingtoolbar, #floatinglayerbar {
@@ -724,6 +725,7 @@ color: #a11504 !important;
 }
 
 .charsheet .sheet-attacks .sheet-options-flag:checked + span,
+.charsheet .sheet-vitals-stats .sheet-options-flag:checked + span,
 .charsheet .sheet-spell .sheet-options-flag:checked + span,
 .charsheet .sheet-tool .sheet-options-flag:checked + span,
 .charsheet .sheet-npc .sheet-npc_options-flag:checked + span,
@@ -1430,7 +1432,8 @@ div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-attacks,
 div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-proficiencies,
 div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-traits,
 div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-equipment,
-div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-exhaustion {
+div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-exhaustion,
+div.sheet-licensecontainer .sheet-container:not(.sheet-npc) .sheet-vitals-stats {
     border-image-source: url("https://gistcdn.githack.com/RedReign/5ee291a1048ad661e3d867aafa262af0/raw/282e8573c504f09f910b7b9e07ab0cf57a60eaa7/OGL5eBorder.svg") !important;
     border-image-slice: 6% 8% 12% 8% fill !important;
 }
@@ -1632,6 +1635,10 @@ div.sheet-licensecontainer .sheet-npc_options span {
 }
 
 .charsheet .sheet-attacks .sheet-display .sheet-subheader span {
+    background-color:transparent !important;
+}
+
+.charsheet .sheet-vitals-stats .sheet-display .sheet-subheader span {
     background-color:transparent !important;
 }
 
