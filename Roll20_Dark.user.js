@@ -2,7 +2,7 @@
 // @name          Roll20 Dark
 // @namespace     https://openuserjs.org/scripts/Lileso/Roll20_Dark
 // @description	  A dark theme for Roll20.net.
-// @author        RedReign + Lileso
+// @author        RedReign + Lileso.
 // @include       https://app.roll20.net/editor*
 // @include       https://app.roll20.net/campaigns/chatarchive*
 // @run-at        document-start
