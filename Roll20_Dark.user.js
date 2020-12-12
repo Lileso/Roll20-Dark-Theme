@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name          Roll20 Dark
-// @namespace     https://openuserjs.org/scripts/RedReign/Roll20_Dark
+// @namespace     https://openuserjs.org/scripts/Lileso/Roll20_Dark
 // @description	  A dark theme for Roll20.net.
-// @author        RedReign
+// @author        RedReign + Lileso
 // @include       https://app.roll20.net/editor*
 // @include       https://app.roll20.net/campaigns/chatarchive*
 // @run-at        document-start
-// @version       2019.8.07.1
+// @version       2020.12.12
 // @license       GPL-3.0-or-later
 // ==/UserScript==
 (function() {var css =`
