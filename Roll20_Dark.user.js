@@ -501,6 +501,7 @@ li.ui-tabs-active.ui-state-active > a {
 
 .sheet-rolltemplate-npc,
 .sheet-rolltemplate-npcaction .sheet-container,
+.sheet-rolltemplate-dmgaction,
 .sheet-rolltemplate-npcatk,
 .sheet-rolltemplate-npcdmg,
 .sheet-rolltemplate-traits {
@@ -637,6 +638,7 @@ textarea {
 
 .sheet-rolltemplate-npc,
 .sheet-rolltemplate-npcaction .sheet-container,
+.sheet-rolltemplate-dmgaction,
 .sheet-rolltemplate-npcatk {
 	width: 180px;
 	margin-top: 5px;
@@ -1578,7 +1580,7 @@ div.sheet-licensecontainer .sheet-trait:hover > .sheet-display > span.sheet-titl
 }
 
 .sheet-rolltemplate-spell .sheet-container,
-.sheet-rolltemplate-npc, .sheet-rolltemplate-npcaction .sheet-container, .sheet-rolltemplate-npcatk, .sheet-rolltemplate-npcdmg, .sheet-rolltemplate-traits {
+.sheet-rolltemplate-npc, .sheet-rolltemplate-dmgaction .sheet-dmgcontainer .sheet-container, .sheet-rolltemplate-npcatk, .sheet-rolltemplate-npcdmg, .sheet-rolltemplate-traits {
     background: #222 url('https://i.imgur.com/n7ohb4t.png') repeat scroll left top !important;
 }
 
